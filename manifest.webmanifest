@@ -1,0 +1,16 @@
+{
+  "name": "Florence & Rome — Pocket Itinerary",
+  "short_name": "Italy",
+  "description": "Vishal & Rupa, 22 Sep – 1 Oct 2026. The whole plan, every booking and all six tickets, offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F5F1",
+  "theme_color": "#2E6E5E",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
