@@ -6,7 +6,7 @@
    very next open, not the one after), with the cached copy as the fallback.
    Everything else is cache-first, because none of it ever changes without
    the cache name changing too. */
-const CACHE = "italy-2026-v2";
+const CACHE = "italy-2026-v3";
 const CORE = [
   "./", "./index.html", "./italy-2026-pocket.pdf", "./manifest.webmanifest",
   "./apple-touch-icon.png", "./icon-192.png", "./icon-512.png"
